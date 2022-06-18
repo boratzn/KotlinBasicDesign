@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Keşfet</string>
+    <string name="discover">Keşfet</string>
+    <string name="titleWatched">İzlemeye devam et</string>
+    <string name="popular">Popüler</string>
+    <string name="more">Daha Fazla</string>
+    <string name="favorite">Favoriler</string>
+    <string name="watched">İzlenenler</string>
+    <string name="search">Ara</string>
+</resources>

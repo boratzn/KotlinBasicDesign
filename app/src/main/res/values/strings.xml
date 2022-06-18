@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Discover</string>
+    <string name="discover">Discover</string>
+    <string name="titleWatched">Being watched now</string>
+    <string name="popular">Popular</string>
+    <string name="more">More</string>
+    <string name="favorite">Favorite</string>
+    <string name="watched">Watched</string>
+    <string name="search">Search</string>
+</resources>
